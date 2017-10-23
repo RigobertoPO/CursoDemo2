@@ -1,0 +1,10 @@
+C:\Users\rperez\Documents\GitHub\CursoDemo2\obj\Debug\netcoreapp2.0\CursoDemo2.csproj.CoreCompileInputs.cache
+C:\Users\rperez\Documents\GitHub\CursoDemo2\obj\Debug\netcoreapp2.0\CursoDemo2.AssemblyInfoInputs.cache
+C:\Users\rperez\Documents\GitHub\CursoDemo2\obj\Debug\netcoreapp2.0\CursoDemo2.AssemblyInfo.cs
+C:\Users\rperez\Documents\GitHub\CursoDemo2\bin\Debug\netcoreapp2.0\CursoDemo2.deps.json
+C:\Users\rperez\Documents\GitHub\CursoDemo2\bin\Debug\netcoreapp2.0\CursoDemo2.runtimeconfig.json
+C:\Users\rperez\Documents\GitHub\CursoDemo2\bin\Debug\netcoreapp2.0\CursoDemo2.runtimeconfig.dev.json
+C:\Users\rperez\Documents\GitHub\CursoDemo2\bin\Debug\netcoreapp2.0\CursoDemo2.dll
+C:\Users\rperez\Documents\GitHub\CursoDemo2\bin\Debug\netcoreapp2.0\CursoDemo2.pdb
+C:\Users\rperez\Documents\GitHub\CursoDemo2\obj\Debug\netcoreapp2.0\CursoDemo2.dll
+C:\Users\rperez\Documents\GitHub\CursoDemo2\obj\Debug\netcoreapp2.0\CursoDemo2.pdb

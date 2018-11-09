@@ -29,6 +29,7 @@ namespace CursoDemo2
             Console.WriteLine("Nombre: "+ miEmpleado.getNombre()+" Sueldo: "+ miEmpleado.Sueldo+" Antiguedad:"+miEmpleado.ObtenerAntiguedad()+" Quincena: "+ miEmpleado.ObtenerPagoNomina());
             Console.WriteLine("Nombre: "+ miEmpleado.getNombre()+" Sueldo: "+ miEmpleado.Sueldo+" Antiguedad: "+miEmpleado.ObtenerAntiguedad()+" Adicionales: "+ miEmpleado.ObtenerPagoNomina(12));
             
+            
         }
     }
 }
